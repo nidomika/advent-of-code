@@ -1,7 +1,7 @@
 # adventofcode2019
 **Day 1** - :white_check_mark: *COMPLETED!* :tada:
 
-**Day 2** - still waiting
+**Day 2** - :white_check_mark: *COMPLETED!* :tada:
 
 **Day 3** - still waiting
 
