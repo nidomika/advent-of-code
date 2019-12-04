@@ -5,7 +5,7 @@
 
 **Day 3** - :white_check_mark: *COMPLETED!* :tada: _scarcely_
 
-**Day 4** - still waiting
+**Day 4** - :white_check_mark: *COMPLETED!* :tada:
 
 **Day 5** - still waiting
 
