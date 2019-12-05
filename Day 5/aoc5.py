@@ -64,4 +64,5 @@ def intcode(tab, userInput):
             i += 4
     return output
 
+print(intcode(tab, 1))
 print(intcode(tab, 5))
