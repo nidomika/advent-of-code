@@ -2,7 +2,6 @@ file = open('aoc2.txt')
 lines = file.read().split(',')
 file.close()
 tab = []
-tab = []
 tab2 = []
 for number in lines:
     number = int(number)
