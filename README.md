@@ -1,19 +1,19 @@
 # adventofcode2019
-**Day 1** - :white_check_mark: *COMPLETED!* :tada:
+**Day 1** - :white_check_mark: *COMPLETED!* :tada: _(python)_
 
-**Day 2** - :white_check_mark: *COMPLETED!* :tada:
+**Day 2** - :white_check_mark: *COMPLETED!* :tada: _(python)_
 
-**Day 3** - :white_check_mark: *COMPLETED!* :tada: _scarcely_
+**Day 3** - :white_check_mark: *COMPLETED!* :tada: _(python)_
 
-**Day 4** - :white_check_mark: *COMPLETED!* :tada:
+**Day 4** - :white_check_mark: *COMPLETED!* :tada: _(python)_
 
-**Day 5** - :white_check_mark: *COMPLETED!* :tada:
+**Day 5** - :white_check_mark: *COMPLETED!* :tada: _(python)_
 
-**Day 6** - still waiting
+**Day 6** - 1/2
 
-**Day 7** - still waiting
+**Day 7** - 1/2
 
-**Day 8** - still waiting
+**Day 8** - :white_check_mark: *COMPLETED!* :tada: _(python + excel spreadsheet)_
 
 **Day 9** - still waiting
 
