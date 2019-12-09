@@ -3,7 +3,7 @@ def chopChop(whatToChopChop):
     chopped = [chop[x:x + 6] for x in range(0, len(chop), 6)]
     return chopped
 
-def count0InLayer(layer):  # layers[i] to jedna warstwa
+def count0InLayer(layer):
     count0 = 0
     for row in layer:
         for i in range(25):
@@ -32,7 +32,7 @@ def part1(layers):
     return countLayer(layers[howMany0.index(min(howMany0))])
 
 
-def paint(image):  # image[layer][row][indicator]
+def paint(image): 
     finalResult = ''
     for row in range(6):
         for indicator in range(25):
