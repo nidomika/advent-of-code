@@ -15,7 +15,7 @@
 
 **Day 8** - :white_check_mark: *COMPLETED!* :tada: _(python + excel spreadsheet)_
 
-**Day 9** - still waiting
+**Day 9** - :white_check_mark: *COMPLETED!* :tada: _(python)_
 
 **Day 10** - still waiting
 
