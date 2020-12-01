@@ -10,7 +10,7 @@ fs.readFile('day1/day1_input.txt', 'utf8', function (err, data) {
   // part 1
 
   for (let i = 0; i < input.length; i++) {
-    for (let j = i + 1; j < input.length - i - 1; j++) {
+    for (let j = i + 1; j < input.length; j++) {
       if (input[i] + input[j] === 2020) {
         console.log(input[i] * input[j])
         break
@@ -21,8 +21,8 @@ fs.readFile('day1/day1_input.txt', 'utf8', function (err, data) {
   // part 2
 
   for (let i = 0; i < input.length; i++) {
-    for (let j = i + 1; j < input.length - i - 1; j++) {
-      for (let k = j + 1; k < input.length - j; k++) {
+    for (let j = i + 1; j < input.length; j++) {
+      for (let k = j + 1; k < input.length; k++) {
         if (input[i] + input[j] + input[k] === 2020) {
           console.log(input[i] * input[j] * input[k])
           break
