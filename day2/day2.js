@@ -19,11 +19,9 @@ fs.readFile('day2_input.txt', 'utf8', function (err, data) {
     // part 1
 
     const check = new RegExp(letter, 'g')
-    const occurrencies = password.match(check)
-      ? password.match(check).length
-      : 0
+    const occurrences = password.match(check) ? password.match(check).length : 0
 
-    if (range[0] <= occurrencies && occurrencies <= range[1]) counter++
+    if (range[0] <= occurrences && occurrences <= range[1]) counter++
 
     // part 2
 

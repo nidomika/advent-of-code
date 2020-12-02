@@ -13,15 +13,15 @@ for line in data:
 
   # part 1
 
-  occurrencies = 0
+  occurrences = 0
 
   for letter in password:
-    if letter == key: occurrencies += 1
+    if letter == key: occurrences += 1
   
-  if numbers[0] <= occurrencies <= numbers[1]: counter += 1
+  if numbers[0] <= occurrences <= numbers[1]: counter += 1
 
   # part 2
-  
+
   position1 = password[numbers[0] - 1] == key
   position2 = password[numbers[1] - 1] == key
   if position1 != position2: counter2 += 1
