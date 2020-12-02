@@ -10,6 +10,7 @@ fs.readFile('day2_input.txt', 'utf8', function (err, data) {
     .map(element => element.split(' '))
   let counter = 0
   let counter2 = 0
+
   for (let i = 0; i < input.length; i++) {
     const range = input[i][0].split('-').map(element => +element)
     const letter = input[i][1].slice(0, -1)
@@ -18,7 +19,6 @@ fs.readFile('day2_input.txt', 'utf8', function (err, data) {
     // part 1
 
     const check = new RegExp(letter, 'g')
-
     const occurrencies = password.match(check)
       ? password.match(check).length
       : 0
@@ -31,6 +31,5 @@ fs.readFile('day2_input.txt', 'utf8', function (err, data) {
     const position2 = password.charAt(range[1] - 1) === letter
     if (position1 !== position2) counter2++
   }
-  console.log(counter)
-  console.log(counter2)
+  console.log(counter, counter2)
 })
