@@ -20,6 +20,6 @@ python: in progress
 
 javascript: :white_check_mark:
 
-python: in progress
+### day 5: :star::star:
 
-### day 5:
+javascript: :white_check_mark:
