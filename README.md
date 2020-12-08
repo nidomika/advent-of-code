@@ -27,3 +27,11 @@ javascript: :white_check_mark:
 ### day 6: :star::star:
 
 javascript: :white_check_mark:
+
+### day 7:
+
+javascript: :x:
+
+### day 8: :star::star:
+
+javascript: :white_check_mark:
