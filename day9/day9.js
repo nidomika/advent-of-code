@@ -21,6 +21,7 @@ fs.readFile('day9_input.txt', 'utf8', function (err, data) {
     }
   }
   const part1 = check(input, 25)
+  console.log(part1[0])
 
   // part 2
 
