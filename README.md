@@ -43,3 +43,23 @@ javascript: :white_check_mark:
 ### day 10: :star:
 
 javascript: in progress
+
+### day 11: :star:
+
+javascript: in progress
+
+### day 12: :star:
+
+javascript: in progress
+
+### day 13: :star:
+
+javascript: in progress
+
+### day 14:
+
+javascript: :x:
+
+### day 15:
+
+javascript: in progress
