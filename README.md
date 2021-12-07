@@ -11,3 +11,5 @@
 **Day 5** :star::star: javascript
 
 **Day 6** :star::star: javascript
+
+**Day 7** :star::star: javascript
