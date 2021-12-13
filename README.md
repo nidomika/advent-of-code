@@ -19,3 +19,9 @@
 **Day 9** :star::star: javascript
 
 **Day 10** :star::star: javascript
+
+**Day 11** :x: :x:
+
+**Day 12** :star::star: javascript
+
+**Day 13** :star::star: javascript
