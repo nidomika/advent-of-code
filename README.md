@@ -1,2 +1,4 @@
-# advent-of-code-2022
-Repo for advent of code 2022.
+# Advent of Code 2022
+
+Day 01 | :star: :star:
+Day 02 | :star: :star:
