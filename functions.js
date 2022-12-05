@@ -24,6 +24,10 @@ export const divideArrayToEqualParts = (arr, partLength) => {
 
 export const add = (partialSum, a) => partialSum + a
 
+export const asc = (a, b) => a - b
+
+export const desc = (a, b) => b - a
+
 export const arraySum = arr => arr.reduce(add, 0)
 
 export const intersection = (arr1, arr2) =>
@@ -31,3 +35,27 @@ export const intersection = (arr1, arr2) =>
 
 export const intersectionOfThree = (arr1, arr2, arr3) =>
   [arr1, arr2, arr3].reduce((a, b) => a.filter(c => b.includes(c)))
+
+export const isInRange = (min, value, max) => value >= min && value <= max
+
+export function rotateRight(array) {
+  let result = []
+  array.forEach(function (a, i, aa) {
+    a.forEach(function (b, j, bb) {
+      result[bb.length - j - 1] = result[bb.length - j - 1] || []
+      result[bb.length - j - 1][i] = b
+    })
+  })
+  return result
+}
+
+export function rotateLeft(array) {
+  let result = []
+  array.forEach(function (a, i, aa) {
+    a.forEach(function (b, j, bb) {
+      result[j] = result[j] || []
+      result[j][aa.length - i - 1] = b
+    })
+  })
+  return result
+}
