@@ -38,7 +38,7 @@ export const intersectionOfThree = (arr1, arr2, arr3) =>
 
 export const isInRange = (min, value, max) => value >= min && value <= max
 
-export function rotateRight(array) {
+export const rotateRight = array => {
   let result = []
   array.forEach(function (a, i, aa) {
     a.forEach(function (b, j, bb) {
@@ -49,7 +49,7 @@ export function rotateRight(array) {
   return result
 }
 
-export function rotateLeft(array) {
+export const rotateLeft = array => {
   let result = []
   array.forEach(function (a, i, aa) {
     a.forEach(function (b, j, bb) {
@@ -58,4 +58,8 @@ export function rotateLeft(array) {
     })
   })
   return result
+}
+
+export const manhattanDistance = (x1, y1, x2, y2) => {
+  return Math.abs(x2 - x1) + Math.abs(y2 - y1)
 }
