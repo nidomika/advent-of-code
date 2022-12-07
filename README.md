@@ -11,3 +11,5 @@ Day 04 | :star: :star:
 Day 05 | :star: :star:
 
 Day 06 | :star: :star:
+
+Day 07 | :star: :star:
