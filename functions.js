@@ -63,3 +63,9 @@ export const rotateLeft = array => {
 export const manhattanDistance = (x1, y1, x2, y2) => {
   return Math.abs(x2 - x1) + Math.abs(y2 - y1)
 }
+
+export const getColumn = (matrix, i) => {
+  let a = []
+  matrix.forEach(row => a.push(row[i]))
+  return a
+}
