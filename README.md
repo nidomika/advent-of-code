@@ -19,3 +19,7 @@ Day 08 | :star: :star:
 Day 09 | :star: :star:
 
 Day 10 | :star: :star:
+
+...
+
+Day 25 | :star:
