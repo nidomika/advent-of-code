@@ -22,4 +22,5 @@ Day 10 | :star: :star:
 
 ...
 
-Day 25 | :star:
+Day 25 | :star: 
+![Image](https://i.ytimg.com/vi/7Chf3Ob63SI/maxresdefault.jpg)
