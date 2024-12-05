@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "Repo for advent of code 2022.",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidomika/advent-of-code-2022.git"
+  },
+  "author": "Dominika Szymanska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidomika/advent-of-code-2022/issues"
+  },
+  "homepage": "https://github.com/nidomika/advent-of-code-2022#readme"
+}
